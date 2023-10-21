@@ -1,0 +1,96 @@
+{
+	"products": [
+		{
+			"id": 0,
+			"name": "Apple iPhone 12",
+			"price": "125 000",
+			"cover": "./iphone15.jpg",
+			"categoryId": 0
+		},
+		{
+			"id": 1,
+			"name": "Samsung Galaxy A03",
+			"price": "7 799",
+			"cover": "./SamsungGalaxyA03.jpg",
+			"categoryId": 0
+		},
+		{
+			"id": 2,
+			"name": "Apple iPhone 11",
+			"price": "61 199",
+			"cover": "./AppleiPhone11.jpg",
+			"categoryId": 0
+		},
+		{
+			"id": 3,
+			"name": "Apple iPhone 12",
+			"price": "125 000",
+			"cover": "./iphone15.jpg",
+			"categoryId": 0
+		},
+		{
+			"id": 4,
+			"name": "Samsung Galaxy A03",
+			"price": "7 799",
+			"cover": "./SamsungGalaxyA03.jpg",
+			"categoryId": 0
+		},
+		{
+			"id": 5,
+			"name": "Apple iPhone 11",
+			"price": "61 199",
+			"cover": "./AppleiPhone11.jpg",
+			"categoryId": 0
+		},
+		{
+			"id": 6,
+			"name": "Apple iPhone 12",
+			"price": "125 000",
+			"cover": "./iphone15.jpg",
+			"categoryId": 0
+		},
+		{
+			"id": 7,
+			"name": "Samsung Galaxy A03",
+			"price": "7 799",
+			"cover": "./SamsungGalaxyA03.jpg",
+			"categoryId": 0
+		},
+		{
+			"id": 8,
+			"name": "Apple iPhone 11",
+			"price": "61 199",
+			"cover": "./AppleiPhone11.jpg",
+			"categoryId": 0
+		},
+
+		{
+			"id": 9,
+			"name": "ASUS VivoBook",
+			"price": "82 999",
+			"cover": "./asus.jpg",
+			"categoryId": 1
+		},
+		{
+			"id": 10,
+			"name": "PlayStation 4",
+			"price": "37 999",
+			"cover": "./ps4.jpg",
+			"categoryId": 2
+		}
+	],
+	"category": [
+		{
+			"id": 0,
+			"name": "Смартфоны"
+		},
+		{
+			"id": 1,
+			"name": "Ноутбуки"
+		},
+		{
+			"id": 2,
+			"name": "Консоли"
+		}
+	]
+}
